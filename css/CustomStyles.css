@@ -1,0 +1,19 @@
+#home-hero-banner {
+    background: url(../img/banner/hero-banner.jpg) left center no-repeat;
+    background-size: cover
+}
+
+#background-hero-banner {
+    background: url(../img/banner/StudentPrivacy.jpg) left center no-repeat;
+    background-size: cover
+}
+
+#health-data-hero-banner {
+    background: url(../img/banner/HealthData.jpg) left center no-repeat;
+    background-size: cover
+}
+
+#ferpa-hero-banner {
+    background: url(../img/banner/ferpa.jpg) left center no-repeat;
+    background-size: cover
+}
