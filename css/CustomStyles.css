@@ -46,3 +46,8 @@
     background: url(../img/banner/FerpaImplementations.jpg) left center no-repeat;
     background-size: cover
 }
+
+#its-privacy-hero-banner {
+    background: url(../img/banner/ItsPrivacy.jpg) left center no-repeat;
+    background-size: cover
+}
