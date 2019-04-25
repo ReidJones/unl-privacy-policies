@@ -22,3 +22,13 @@
     background: url(../img/banner/DataCollection.jpg) left center no-repeat;
     background-size: cover
 }
+
+#software-vendors-hero-banner {
+    background: url(../img/banner/SoftwareVendors.jpg) left center no-repeat;
+    background-size: cover
+}
+
+#accountability-hero-banner {
+    background: url(../img/banner/accountability.jpg) left center no-repeat;
+    background-size: cover
+}
