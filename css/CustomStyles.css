@@ -37,3 +37,7 @@
     background: url(../img/banner/StudentPrivacyInitiatives.jpg) left center no-repeat;
     background-size: cover
 }
+#data-breaches-initiatives-hero-banner {
+    background: url(../img/banner/DataBreaches.jpg) left center no-repeat;
+    background-size: cover
+}
