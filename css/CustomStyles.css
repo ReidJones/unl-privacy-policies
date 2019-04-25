@@ -51,3 +51,8 @@
     background: url(../img/banner/ItsPrivacy.jpg) left center no-repeat;
     background-size: cover
 }
+
+#references-hero-banner {
+    background: url(../img/banner/References.jpg) left center no-repeat;
+    background-size: cover
+}
