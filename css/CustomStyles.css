@@ -41,3 +41,8 @@
     background: url(../img/banner/DataBreaches.jpg) left center no-repeat;
     background-size: cover
 }
+
+#ferpa-implementations-hero-banner {
+    background: url(../img/banner/FerpaImplementations.jpg) left center no-repeat;
+    background-size: cover
+}
