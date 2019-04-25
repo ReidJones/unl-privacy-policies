@@ -32,3 +32,8 @@
     background: url(../img/banner/accountability.jpg) left center no-repeat;
     background-size: cover
 }
+
+#student-privacy-initiatives-hero-banner {
+    background: url(../img/banner/StudentPrivacyInitiatives.jpg) left center no-repeat;
+    background-size: cover
+}
