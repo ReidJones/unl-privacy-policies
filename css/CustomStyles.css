@@ -17,3 +17,8 @@
     background: url(../img/banner/ferpa.jpg) left center no-repeat;
     background-size: cover
 }
+
+#data-collection-hero-banner {
+    background: url(../img/banner/DataCollection.jpg) left center no-repeat;
+    background-size: cover
+}
